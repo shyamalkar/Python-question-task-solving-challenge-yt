@@ -5,7 +5,7 @@ adjective = input("Enter an adjective:")
 
 animal = input("Enter an animal: ")
 place = input("Enter a place:")
-hero_name = str(input("Enter a hero name:")) 
+hero_name = str(input("Enter a hero name:"))  
 
 # fevorite number and arithmetic 
 fav_number = int(input("Enter your fevorite number:")) 
