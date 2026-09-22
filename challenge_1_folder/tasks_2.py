@@ -9,6 +9,7 @@ e = float(input("Enter e: "))
 
 # standard precedence
 
+
  
 result1 =  a * b + c/ d - e  
 
