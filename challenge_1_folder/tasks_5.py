@@ -11,3 +11,4 @@ print("Hello", first_name, last_name + ",", "you are ", age, "years old.")
 
 
 
+'Hello in this incident , here i stand for intoduce my self , so the main formula about my self that is i never informed that.'
