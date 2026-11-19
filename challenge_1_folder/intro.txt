@@ -1,4 +1,2 @@
 "Python 10 technical programming question given by Gemini"
-print("Write anything")
-
-
+print("Write anything") " i really don't know "
